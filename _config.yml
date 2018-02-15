@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: alaniomotosho2
+url: 
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -102,4 +102,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: /
+    base_url: 
