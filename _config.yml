@@ -102,4 +102,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: 
+    base_url: /mustapha
