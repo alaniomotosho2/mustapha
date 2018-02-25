@@ -872,34 +872,3 @@ cotin.plot(kind='bar',figsize=(15,6))
 
 
 ![png]({{site.baseurl}}/assets/images/noble/blog1_42_1.png)
-
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
