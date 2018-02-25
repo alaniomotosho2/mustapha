@@ -24,7 +24,7 @@ Image('obama.jpg')
 
 
 
-![png](/assets/images/noble/blog1_1_0.jpeg)
+![png]({{site.baseurl}}/assets/images/noble/blog1_1_0.jpeg)
 
 
 
@@ -519,7 +519,7 @@ top10.plot.bar(figsize=(17,6))
 
 
 
-![png](/assets/images/noble/blog1_18_1.png)
+![png]({{site.baseurl}}/assets/images/noble/blog1_18_1.png)
 
 
 
@@ -581,7 +581,7 @@ cat.plot(kind='barh',figsize=(16,6))
 
 
 
-![png](/assets/images/noble/blog1_23_1.png)
+![png]({{site.baseurl}}/assets/images/noble/blog1_23_1.png)
 
 
 
@@ -642,7 +642,7 @@ gender.plot(kind='pie',figsize=(10,6))
 
 
 
-![png](/assets/images/noble/blog1_28_1.png)
+![png]({{site.baseurl}}/assets/images/noble/blog1_28_1.png)
 
 
 ```python
@@ -694,7 +694,7 @@ us_v.plot(kind='bar')
 
 
 
-![png](/assets/images/noble/blog1_33_1.png)
+![png]({{site.baseurl}}/assets/images/noble/blog1_33_1.png)
 
 
 
@@ -871,7 +871,7 @@ cotin.plot(kind='bar',figsize=(15,6))
 
 
 
-![png](/assets/images/noble/blog1_42_1.png)
+![png]({{site.baseurl}}/assets/images/noble/blog1_42_1.png)
 
 
 
