@@ -11,6 +11,8 @@ layout: page
 	<li>Ruby</li>
 	<li>PHP</li>
 	<li>C++</li>
+	<li>Django,Flask,Pandas,Scipy,Numpy,Matplotlib,Keras</li>
+	<li>Yii Framework</li>
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>

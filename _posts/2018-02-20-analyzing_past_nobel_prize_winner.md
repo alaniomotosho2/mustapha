@@ -13,16 +13,6 @@ author: Mustapha
 description: Content Analysis of Past Nobel prize winners
 ---
 
-```python
-from IPython.core.display import HTML, Image
-```
-
-
-```python
-Image('obama.jpg')
-```
-
-
 
 ![png]({{site.baseurl}}/assets/images/noble/blog1_1_0.jpeg)
 
