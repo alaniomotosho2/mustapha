@@ -1,7 +1,7 @@
 ---
 title: "Exploratory analysis of London street level crime 2015-2017"
 layout: post
-date: 2018-02-20 22:44
+date: 2018-02-27 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
