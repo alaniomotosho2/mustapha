@@ -860,16 +860,6 @@ data_region
 
 
 
-```python
-string.find('mustapha omotoshoe','xytz')
-```
-
-
-
-
-    -1
-
-
 
 
 ```python
