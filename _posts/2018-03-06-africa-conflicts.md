@@ -641,7 +641,7 @@ a
 
 
 
-#### now we can visualize even type
+#### now we can visualize event type
 
 
 ```python
