@@ -357,7 +357,7 @@ data.columns ## now we have 10 columns to work with
 
 
 
-#### we display firts five rows again
+#### we display first five rows again
 
 
 ```python
@@ -608,7 +608,7 @@ cm_conflict
 
 
 
-Some event type are not unique!!! <h4> lets convert the whole string to lower and then count again, we will also strip white space as well to avoid duplicate</h4>
+Some event type are not unique!!! lets convert the whole string to lower and then count again, we will also strip white space as well to avoid duplicate
 
 
 ```python

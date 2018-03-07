@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-07T20:37:52+05:30</updated><id>http://localhost:4000/</id><title type="html">Mustapha Omotosho</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Analysis of conflicts in Africa 1997 - 2017</title><link href="http://localhost:4000/africa-conflicts/" rel="alternate" type="text/html" title="Analysis of conflicts in Africa 1997 - 2017" /><published>2018-03-06T22:44:00+05:30</published><updated>2018-03-06T22:44:00+05:30</updated><id>http://localhost:4000/africa-conflicts</id><content type="html" xml:base="http://localhost:4000/africa-conflicts/">&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-07T20:46:04+05:30</updated><id>http://localhost:4000/</id><title type="html">Mustapha Omotosho</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Analysis of conflicts in Africa 1997 - 2017</title><link href="http://localhost:4000/africa-conflicts/" rel="alternate" type="text/html" title="Analysis of conflicts in Africa 1997 - 2017" /><published>2018-03-06T22:44:00+05:30</published><updated>2018-03-06T22:44:00+05:30</updated><id>http://localhost:4000/africa-conflicts</id><content type="html" xml:base="http://localhost:4000/africa-conflicts/">&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -308,7 +308,7 @@ Raleigh, Clionadh, Andrew Linke, Håvard Hegre and Joakim Karlsen. 2010. Introdu
       dtype='object')
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h4 id=&quot;we-display-firts-five-rows-again&quot;&gt;we display firts five rows again&lt;/h4&gt;
+&lt;h4 id=&quot;we-display-first-five-rows-again&quot;&gt;we display first five rows again&lt;/h4&gt;
 
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;head&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -521,7 +521,7 @@ Strategic development                             1
 Name: EVENT_TYPE, dtype: int64
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Some event type are not unique!!! &amp;lt;h4&amp;gt; lets convert the whole string to lower and then count again, we will also strip white space as well to avoid duplicate&amp;lt;/h4&amp;gt;&lt;/p&gt;
+&lt;p&gt;Some event type are not unique!!! lets convert the whole string to lower and then count again, we will also strip white space as well to avoid duplicate&lt;/p&gt;
 
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;string&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
