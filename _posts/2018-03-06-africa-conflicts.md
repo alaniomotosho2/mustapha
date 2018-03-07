@@ -859,45 +859,6 @@ data_region
 
 
 
-
-
-
-```python
-data_region = pd.DataFrame(data_region)
-```
-
-
-```python
-data_region['val'] = [2,1,3,4,5]
-```
-
-
-```python
-def mapper(val):
-    if val == 1:
-        return 'North Africa'
-    if val == 2:
-        return 'East Africa'
-    if val == 3:
-        return 'West Africa'
-    if val == 4 :
-        return 'Central Africa'
-    return 'South Africa' 
-```
-
-
-```python
-data_region.val = data_region.val.apply(mapper)
-```
-
-
-```python
-data_region
-```
-
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
