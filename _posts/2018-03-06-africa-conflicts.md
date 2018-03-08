@@ -15,7 +15,6 @@ description: Analysis of conflict in Africa
 
 ```python
 import pandas as pd
-import pandas
 ```
 
 <h2>Context</h2>
@@ -1035,24 +1034,10 @@ plt.grid()
 ![image]({{site.baseurl}}/assets/images/afr_files/afr_69_0.png)
 
 
-
-```python
-import mpl_toolkits
-```
-
-
-```python
-mpl_toolkits.__path__.append('/usr/lib/python2.7/dist-packages/mpl_toolkits/')
-```
-
 ## Analysis of conflicts that has something to do with Students
 
 we will inspect column Note and we extract any rows that mention student
 
-
-```python
-data = pd.read_csv('african_conflicts.csv')
-```
 
 
 ```python
