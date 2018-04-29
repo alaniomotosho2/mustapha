@@ -27,5 +27,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/alaniomotosho2">My Github Repos</a></li>
+	<li><a href="https://github.com/alaniomotosho2/machine_learning/">My Github Repos</a></li>
 </ul>
